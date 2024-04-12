@@ -1,0 +1,176 @@
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\appsettings.json
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\WebApp.exe
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\WebApp.deps.json
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\WebApp.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\WebApp.pdb
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Azure.Core.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Azure.Identity.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Humanizer.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\KIPA\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cache
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cs
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.sourcelink.json
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp.props
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.dll
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.pdb
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+D:\KIPA\WebApp\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\WebApp.exe
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\WebApp.deps.json
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\WebApp.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\WebApp.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.sourcelink.json
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Telegram Desktop\WebApp\KipaWeb\WebApp\obj\Debug\net6.0\ref\WebApp.dll
