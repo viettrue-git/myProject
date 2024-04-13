@@ -19,7 +19,7 @@ namespace WebApp.Models
             _appsettings = appsettings;
         }
         // chuỗi kết nối với tên db sẽ làm  việc đặt là webdb
-        public const string ConnectStrring = @"Data Source=DESKTOP-JC3AARP\TRANGANH;Initial Catalog=KipaInfomation;User ID=sa;Password=123456789@;TrustServerCertificate=True";
+        public const string ConnectStrring = @"Data Source=DESKTOP-JC3AARP\\TRANGANH;Initial Catalog=KipaInfomation;User ID=sa;Password=123456789@;TrustServerCertificate=True";
         
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
