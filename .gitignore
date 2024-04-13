@@ -6,4 +6,8 @@
 .bin
 .vs
 .suo
-
+.dll
+.exe
+.pdb
+.json
+.cache
