@@ -16,6 +16,7 @@ namespace WebApp.Models
 
         public WebContext(DbContextOptions options) : base(options)
         {
+
         }
         // chuỗi kết nối với tên db sẽ làm  việc đặt là webdb
        // public const string ConnectStrring = @"Data Source=VIETANHDEV\MSSQLSERVER22;Initial Catalog=KipaInfomation;User ID=sa;Password=123456;TrustServerCertificate=True";
