@@ -3,16 +3,18 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using WebApp.Areas.Admin.Service;
 using WebApp.Models;
+using WebApp.Request;
 
 namespace WebApp.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class BannerController : Controller
     {
         private BannerService bannerService;
 
-        public BannerController(IOptions<AppSettings> settings)
+        public BannerController()
         {
-            bannerService = new BannerService(settings);
+            bannerService = new BannerService();
         }
         // GET: BannerController
         public ActionResult Index(int pageIndex,int pageSize)
@@ -28,9 +30,9 @@ namespace WebApp.Areas.Admin.Controllers
         }
 
         // GET: BannerController/Create
-        public ActionResult Create()
+        public bool Create(BannerRequest banner)
         {
-            return View();
+            return bannerService.CreateBanner(banner);
         }
 
         // POST: BannerController/Create

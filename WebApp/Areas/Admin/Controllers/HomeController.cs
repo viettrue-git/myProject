@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebApp.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class HomeController : Controller
     {
-        [Area("Admin")]
         // GET: HomeController
         public ActionResult Index()
         {

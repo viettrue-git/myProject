@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.Options;
 using PagedList;
 using WebApp.Models;
+using WebApp.Request;
 
 namespace WebApp.Areas.Admin.Service
 {
@@ -8,10 +9,6 @@ namespace WebApp.Areas.Admin.Service
     {
 
         private WebContext _webContext;
-        public BannerService(IOptions<AppSettings> settings)
-        {
-           _webContext = new WebContext(settings);
-        }
         
         /// <summary>
         /// get all banner paging
@@ -21,9 +18,25 @@ namespace WebApp.Areas.Admin.Service
         /// <returns></returns>
         public IEnumerable<Banner> GetAllBanner(int pageIndex = 1,int pageSize = 10)
         {
-            var list = _webContext.banners.OrderBy(x => x.BannerId).ToList().ToPagedList(pageIndex, pageSize);
+            var list =  _webContext.banners.ToList().ToPagedList(pageIndex, pageSize);
             return list;
         }
+        public bool CreateBanner (BannerRequest banner)
+        {
 
+            banner.isActive = true;
+            banner.Url = "112";
+            banner.BannerId = 1;
+            var newBanner = new Banner()
+            {
+                BannerId = banner.BannerId,
+                Url = banner.Url,
+                isActive = true
+            };
+            _webContext.banners.AddAsync(newBanner);
+            return true;
+
+        }
+ 
     }
 }
