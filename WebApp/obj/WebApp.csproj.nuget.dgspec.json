@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\myProject\\WebApp\\WebApp.csproj": {}
+    "C:\\ProjectKipa\\myProject\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Training\\myProject\\WebApp\\WebApp.csproj": {
+    "C:\\ProjectKipa\\myProject\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\myProject\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\ProjectKipa\\myProject\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Training\\myProject\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\myProject\\WebApp\\obj\\",
+        "projectPath": "C:\\ProjectKipa\\myProject\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\KINGCOM GAMING\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjectKipa\\myProject\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KINGCOM GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,6 +63,14 @@
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "PagedList": {
+              "target": "Package",
+              "version": "[1.17.0, )"
             }
           },
           "imports": [
