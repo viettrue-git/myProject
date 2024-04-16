@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WebApp.bundle.scp.css"
     },
     {
+      "Id": "D:\\KIPA\\myProject\\WebApp\\wwwroot\\Content\\Image\\banner1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Image\\banner1.jpg"
+    },
+    {
       "Id": "D:\\KIPA\\myProject\\WebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
