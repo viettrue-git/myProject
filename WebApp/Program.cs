@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 using WebApp.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,7 +18,14 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
 app.UseStaticFiles();
+// config statis file to get file from folder orther root  - su dung de khai bao file tinh khong thuoc root
+app.UseStaticFiles(new StaticFileOptions()
+{
+    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "Asset")),
+    RequestPath = "/Asset"
+});
 
 app.UseRouting();
 
@@ -36,8 +44,18 @@ services.AddDbContext<WebContext>(options => options.UseSqlServer(connectionStri
 //    builder.Configuration.GetSection("Appsettings"));
 
 
-app.MapControllerRoute(
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapAreaControllerRoute(
+        name: "Admin",
+        areaName: "Admin",
+        pattern: "Admin/{controller}/{action=Index}");
+
+    app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+});
+
+
 
 app.Run();
